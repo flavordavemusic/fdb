@@ -145,3 +145,109 @@ This isn’t about rejecting the culture. It’s about **reclaiming** what the c
 #### Text Hook Styles + Hook Frameworks
 🧭 Use the Compass to clarify intention before formatting.  
 - Don’t force hooks for vi
+
+---
+
+## 3 YouTube
+Shorts and MMV-based content system. Captions, thumbnails, visuals, and SEO tips.
+
+### 3.1 Universal Strategy (Shorts, Videos)
+
+#### Core Algorithmic Behavior
+- All content formats are interconnected — Shorts, Lives, and Longform feed into each other. Engagement in one boosts exposure to the others.  
+- Going viral is often **delayed** — YouTube may push Shorts weeks or months after posting, especially as trends or viewer patterns shift.  
+- **Search-first indexing:** YouTube now surfaces Shorts and videos in Google results and AI-powered discovery tools. Titles and topics must match search intent.  
+- **Engagement acceleration:** The more comments, shares, and rewatches, the stronger the reach.  
+- Expect an early **“invisible growth” phase** — YouTube tests content in small viewer batches before scaling. Data compounds over 50–100 uploads.
+
+#### Best Practices
+- Maintain consistent brand visuals: MMVs, Shorts, Lives, and the channel homepage should share overlays, Flavorverse visuals, and visual identity (e.g. logo watermark, surreal food-music mashups).  
+- Fill out all metadata: banner art, About section, contact email, channel tags with genre, location, and song names.  
+- Playlists matter: curate bingeable formats like “Spicy House Visuals” or “Unhinged AI Manager Lore.” Top row should be **Start Here / Greatest Hits**.  
+- Respond to every comment within 48 hours — drives retention and repeat views.  
+- Convert with intention: use pinned comments or descriptions to move viewers to Spotify, playlists, or email — avoid the word “link” (say *“in the comments”* instead).
+
+---
+
+### 3.2 YouTube Shorts Strategy
+
+#### Hook & Retention
+- First 0–3 seconds determine success. Use:
+  - **Curiosity gap:** “What’s happening here?”  
+  - **Unexpected visual motion:** rope pull, match strike, head turn  
+  - **Props / countdowns:** lists, builds, reveals  
+  - **Text overlays:** “This track isn’t safe for heartbreaks.”  
+  - Always use captions/subtitles — most Shorts are watched without sound.  
+
+#### CTA / Engagement Boosters
+- “Save this for later if it hits too close.”  
+- “Comment 🍝 if you’ve ever felt this.”  
+- “This one’s haunted. Watch till the drop.”  
+- Prompt emotional responses — engagement + rewatches are the key signals.
+
+#### SEO + Titling
+- Use YouTube Studio’s **Trends** tab to find high-traffic search topics.  
+- Insert long-tail keywords into titles.  
+- Choose accurate **categories** (Music, How-To, etc).  
+- Tags: 2–3 niche hashtags (#melodichouse, #flavorverse) or 2 niche + #shorts. Avoid hashtags in descriptions.
+
+#### Testing System
+- Post 3–6 Shorts per day when batching or testing new content.  
+- Run 2–3 versions of promising clips with different hooks or overlays.  
+- Repost older Shorts with new packaging if they underperform.
+
+#### Metrics to Watch
+- **Avg View %:** aim for 80%+  
+- **Choose-to-View Rate:** >80%  
+- **Comments / Rewatches:** top-tier signals  
+- **Delayed Views:** expect 30–90 day ramp-up
+
+#### Flavor Dave Applications
+- Repurpose MMV clips into loopable Shorts with strong visual metaphors.  
+- Subtly embed Flavorverse narrative (Chef Dave, Michelin USBs, surreal humor).  
+- Use fake reviews, reactions, or “Part 2 just hit” serial formats to build continuity.
+
+---
+
+### 3.3 Longform & MMV Strategy (4K Visuals, Lyric Videos, DJ Sets)
+
+#### Purpose
+- Convert passive scrollers into active fans/subscribers.  
+- Build artistic depth and worldbuilding through visuals and pacing.  
+- Anchor content for Shorts & Stories cross-platform.
+
+#### MMV & Lyric Video Format (Flavorverse Style)
+- Focus on bold concepts & loop-friendly visuals — minimal editing.  
+- Examples: thermal visuals for *Burn Me Down*, cooking USBs, surreal heartbreak metaphors (pepper slicing).  
+- Reuse motifs from Shorts (candle melts, reverse balloons) for continuity.  
+- Add watermarks, intro cards, or animated Flavorverse tags for cohesion.  
+- Pin comment: 🎧 *Listen on YouTube Music →* (insert YT Music link).
+
+#### Optimization Checklist
+- **Title:** SEO + emotion (e.g. “House Music for Breakups,” “Burn Me Down – MMV”).  
+- **Description:** 1–2 short paragraphs describing mood, narrative, and sonic vibe.  
+- **Category:** Match viewer intent (Music, Education, etc.).  
+- **Thumbnails:** Branded, minimal, emotional. Test at small sizes.  
+- **Include full lyrics & credits** for SEO.  
+- **Tags:** genre, mood, visuals, common misspellings.
+
+#### CTAs + Retention
+- Pinned comments → next MMV, playlist, or Spotify.  
+- End with a soft loop or teaser (“Hits harder with headphones”).  
+- Add end screens linking similar-song playlists (5–10s).  
+- Use cards mid-video to cross-link related tracks.  
+- Trim dead air via Studio tools.
+
+#### Post Strategy
+- Cut 2–3 Shorts from each longform video.  
+- Promote longform on Threads/IG with context (“This moment wasn’t scripted”).  
+- Add longform to multiple playlists for extra entry points.  
+- Premiere major drops; update old end screens to push the new release.  
+- Maintain a **30-day promo cycle** post-release with clips, stills, and Shorts.
+
+#### Flavor Dave Applications
+- Structure MMVs as serialized arcs or playlists for continuity.  
+- Use implied emotion via surreal visuals — minimal literal storytelling.  
+- Feature recurring motifs (AI Manager, peppers, heartbreak objects, voice notes).
+
+---
