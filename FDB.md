@@ -1501,3 +1501,31 @@ Every sound, movement, and visual is intentional — engineered chaos that still
 When done right, the audience should feel like they’re watching someone literally *cook music.*
 
 ---
+
+Each new archetype section will reference the relevant **Text Hook System**, **Platform Guide**, and **Visual Identity** sections to ensure alignment.
+
+---
+
+### 13.4 Production Guidelines (Placeholder)
+Planned subsections for this area:
+- **14.1 File Dimensions + Safe Margins** – standard export sizes for Reels, Shorts, Threads, and YT MMVs.  
+- **14.2 Batching Workflow** – how to plan 10 pieces of content from one track or theme.  
+- **14.3 Caption Construction Framework** – from hook to context to CTA.  
+- **14.4 Emotional Color Grading Guide** – visual tone alignment for each archetype.  
+- **14.5 Platform Adaptation Matrix** – rules for translating an idea across IG, Threads, YouTube, and Ads.  
+- **14.6 Automation Bridge** – connection between `/data/fdb.json` and n8n agents to auto-generate posts or hook templates.
+
+---
+
+### 13.5 Notes
+- Section 14 (Production Guidelines) will replace this placeholder once archetype documentation begins.  
+- Continue numbering from this section for new entries to preserve link stability in the TOC.  
+- All sub-archetypes added here will later be mirrored in `/data/fdb_archetypes.json` for automation.  
+
+---
+
+### 13.6 Status
+🟡 **Draft Stage** — Framework ready; awaiting archetype imports from content system documents.  
+Finalized archetypes will include cross-links to Text Hook, Ads, and Branding sections.  
+
+---
