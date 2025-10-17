@@ -251,3 +251,25 @@ Shorts and MMV-based content system. Captions, thumbnails, visuals, and SEO tips
 - Feature recurring motifs (AI Manager, peppers, heartbreak objects, voice notes).
 
 ---
+---
+
+## 4 Instagram
+Instagram growth and content system. Covers Reels, captions, visual ideas, and optimization tips.
+
+### 4.1 Instagram Growth Foundations
+
+#### Platform Behavior (2025 Meta Update Context)
+- Reels are the **primary discovery vehicle**. Most growth and algorithm testing happens here.  
+- IG now classifies accounts as either:
+  - **Creators:** consistent niche, clear audience, content-first.  
+  - **Casual users:** mixed content, low engagement, friend/family-based.
+    → You want IG to classify **Flavor Dave** as a *niche creator account.*  
+- **Rewatching, saves, and shares** are prioritized over likes or comments.  
+- **Watch time is percentage-based** — aim for 80–100% completion.  
+- **Natural language > hashtags** — IG parses captions, subtitles, and speech for keywords.  
+- **Stale profiles hurt conversions** — keep 2–3 fresh Reels visible at all times.  
+- **Friends/family engagement can hurt targeting** — creates the wrong audience cluster.
+
+---
+
+### 4.2 A
