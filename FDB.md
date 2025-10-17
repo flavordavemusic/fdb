@@ -1121,3 +1121,133 @@ Keep motifs subtle — recognition comes from repetition, not logo spam.
 - Auto-sync album art to Reels / YouTube templates via automation.
 
 ---
+---
+
+## 10 SoundCloud
+SoundCloud strategy and growth system. Designed for audience building, repost automation, and ecosystem integration across the Flavorverse.
+
+### 10.1 Core Philosophy
+SoundCloud isn’t just a dumping ground for uploads — it’s a **growth sandbox**.  
+Every repost, follow, or gate action feeds back into discovery systems, audience loops, and email expansion.
+
+SoundCloud should feel alive: updates, reposts, and comments keep the profile algorithmically visible.
+
+---
+
+### 10.2 Account System
+- **Primary Account:** Flavor Dave (main artist profile).  
+- **Secondary Accounts:** burner repost pages or aliases for ecosystem amplification.  
+- **Repost Engine:** multiple accounts resharing tracks to boost early algorithm weight.  
+- **Follower Target:** 1 000 – 2 000 combined across all accounts before major release campaigns.  
+
+---
+
+### 10.3 Growth Pipeline
+**Goal:** turn SoundCloud listeners into followers, then funnel them toward Spotify/YouTube/email.  
+
+**Flow:**  
+> Track → Repost → Follow → Hypeddit Gate → Email List → Spotify Save  
+
+---
+
+### 10.4 Download Gates
+- Use **Hypeddit** as the default.  
+- Required actions: follow + repost + like.  
+- Optional actions: Spotify follow + email capture.  
+- Smart Link: keep URLs clean and emotion-led, e.g.  
+  `flavordavemusic.com/burnmedown`  
+- Don’t gate YouTube content — YT audiences convert poorly to SC.  
+
+---
+
+### 10.5 Automation & Scheduling
+- Use **PumpYourSound** or **SCPlanner** to automate repost timing.  
+- Set each track to repost 5–6 times in the first 2 weeks.  
+- Distribute across burner accounts on staggered days.  
+- Archive reposts after 30 days to reset the feed.  
+- Schedule 2 manual reposts per week from collaborators or playlist friends.
+
+---
+
+### 10.6 Comment Engagement
+- Comment early on new uploads with genuine notes (mix feedback, gratitude, emojis).  
+- Reply to every comment within 48 h.  
+- Add timestamp comments (e.g., “2:17 🤯 – that drop ruined me”) — boosts replay rate.  
+- Leave comments on other artists’ tracks weekly; SoundCloud still shows these to mutual followers.
+
+---
+
+### 10.7 Playlist Strategy
+| Playlist | Focus | Notes |
+|-----------|--------|-------|
+| **Spicy House Bangers** | Core Flavor Dave sound | Top performing, pinned |
+| **Therapy Sessions** | Emotional vibe / downtempo house | For “Burn Me Down” type tracks |
+| **Chef’s Table** | Remixes, collabs, edits | Connects the broader Flavorverse |
+| **Taste Tests** | Early IDs / unreleased | Private link sharing for A&R / fans |
+
+✅ Update playlists weekly.  
+✅ Include new uploads immediately after release.  
+✅ Use playlist captions for emotional storytelling — not generic genre tags.  
+
+---
+
+### 10.8 Repost System Details
+| Component | Tool | Function |
+|------------|------|-----------|
+| **Burner Accounts** | alt profiles (e.g., Chef’s Reposts, FlavorLab) | Boosts repost count / credibility |
+| **PumpYourSound** | automation scheduler | Handles timed reposts + follows |
+| **RepostExchange (optional)** | manual swaps | Use selectively for big drops only |
+| **Hypeddit Gate** | growth mechanism | Converts reposts to email list entries |
+| **Data Tracking** | Looker Studio CSV | Monitors follower growth + play counts |
+
+---
+
+### 10.9 Optimization Checklist
+✅ Each track title clear and emotional.  
+✅ Cover art matches Flavorverse aesthetic.  
+✅ Description includes smart link + MMV YouTube link.  
+✅ Tags accurate (genre + mood).  
+✅ Pinned track is current release or most emotional one.  
+✅ Playlists updated and reposted.  
+✅ Links connect to email list / YouTube / Spotify.  
+
+---
+
+### 10.10 Description Template
+> **Made this after burning another USB.**  
+>  
+> For people who still feel too much but dance anyway.  
+>  
+> 🔥 MMV on YouTube → [youtube.com/@flavordave](https://youtube.com/@flavordave)  
+>  
+> 🎧 Smart Link → [flavordavemusic.com/burnmedown](https://flavordavemusic.com/burnmedown)  
+
+🧠 Descriptions should read like journal entries — not marketing blurbs.
+
+---
+
+### 10.11 Analytics & Iteration
+- Export monthly stats via SoundCloud Pro dashboard (CSV).  
+- Track: plays, likes, reposts, downloads, followers.  
+- Identify top performing geographies and repeat with targeted ads.  
+- Use data to calibrate ad targeting for Spotify/Meta.  
+- Archive monthly CSVs in `/data/soundcloud_analytics/`.  
+
+---
+
+### 10.12 Integration with Other Platforms
+- Link to YouTube MMVs in descriptions.  
+- Add Spotify links in bio only (not every track).  
+- Reference Threads / Instagram handles to create looped ecosystem.  
+- Mirror top performing SC tracks in Reels and YouTube Shorts using identical hooks.  
+- Schedule playlist refresh reminders via n8n automations.
+
+---
+
+### 10.13 Future Expansion
+- Introduce monthly SoundCloud exclusive mixes.  
+- Build collaborative “Spicy Friends” playlist series.  
+- Automate repost rotations via API integrations.  
+- Potential Discord integration for early fan access links.  
+
+---
