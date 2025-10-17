@@ -867,3 +867,130 @@ Use scorecard monthly to evaluate new hooks in the bank.
 5. The Flavorverse rewards contradiction — lean into it.  
 
 ---
+---
+
+## 8 Emails
+Email communication and fan-connection framework. Designed for human-sounding updates that extend the Flavorverse without sounding like marketing copy.
+
+### 8.1 Purpose
+Email is not a blast list — it’s a **direct emotional line** to real fans.  
+Treat it as a slow-burn conversation with the people who already care.  
+The goal: build *trust and anticipation*, not push streams.
+
+---
+
+### 8.2 List Overview
+- **Current Size:** ~450 contacts (event attendees, real fans).  
+- **Acquisition:** Hypeddit download gates + direct sign-ups from events or playlist drops.  
+- **Audience Context:** These people know you by your real DJ name — transition them slowly to Flavor Dave.  
+- **Growth Channel:** Use download gates, playlist incentives, and MMV soft-calls (“get the unreleased one via email”).  
+- **Segmentation:** Not needed yet — all one list until >2 k subs.
+
+---
+
+### 8.3 Voice & Tone
+- Write like a person texting a friend, not a brand.  
+- Keep humor subtle and tone conversational.  
+- Stay within the Flavorverse — use references to cooking, heat, flavor, emotional spice.  
+- Never write like “newsletter marketing.”  
+- One clear takeaway per email.
+
+**Example tone:**  
+> Subject: *I burned the mix again.*  
+>  
+> Body: “Technically the track’s fine. Emotionally? We’re medium-rare.”  
+
+---
+
+### 8.4 Frequency
+- 1 – 2 emails per month is plenty.  
+- Use major events or drops as anchors.  
+- Avoid sending just to send — every email should have *a reason to exist.*  
+
+---
+
+### 8.5 Email Types
+
+| Type | Goal | Example Subject | Example CTA |
+|------|------|-----------------|--------------|
+| **Drop Announcement** | Notify & build emotional hype | “This one’s for people who overthink in 4/4.” | “Listen →” |
+| **Behind the Track** | Build connection | “Made this one after therapy.” | “Hear it →” |
+| **Flavorverse Update** | World-building / humor | “Chef Dave accidentally burned the USB again.” | “See the damage →” |
+| **Live Recap / Invite** | IRL integration | “Toronto got spicy last night.” | “Come taste the next one →” |
+
+---
+
+### 8.6 Format Guidelines
+**Structure**
+1. **Subject:** short, emotionally teasing (< 50 chars).  
+2. **First line:** relatable or funny cold open.  
+3. **Middle:** 2–4 sentences that build context or story.  
+4. **CTA:** single clean link (Spotify, YouTube, Smart Link).  
+5. **Footer:** keep minimal — name, socials, unsubscribe.
+
+**Visuals**
+- Light images or GIFs ok — keep under 150 KB.  
+- Inline visuals > header banners.  
+- Maintain dark, cinematic palette (black, orange, red).
+
+**Length**
+- 100–200 words max.  
+- Mobile-first readability (short paragraphs, blank lines).
+
+---
+
+### 8.7 Conversion Flow
+1. **Fan Download Gate → Email → Follow-up → Spotify/Playlist.**  
+2. **New Track → Email → MMV / Visual Link → IG Share.**  
+3. **Live Set → Recap Email → Reel → Ad → Next Event.**
+
+✅ Every email should connect back to a Flavorverse story loop.
+
+---
+
+### 8.8 Technical Setup
+- Use **Symphonic** or **Mailchimp Lite** for basic automation.  
+- Keep sender name **Flavor Dave** (not business name).  
+- Test both Gmail + Apple Mail previews.  
+- Track opens, clicks, unsubscribes monthly.  
+- Always plain-text first; HTML secondary.  
+- Archive all sends in `/data/email_archive.json` for historical reference.  
+
+---
+
+### 8.9 Example Emails
+
+**Drop Email**
+> Subject: *This track isn’t safe for your ex to hear.*  
+>  
+> Body:  
+> “Made this one after burning the pan — and a bridge or two.  
+> It’s messy, loud, and weirdly healing.”  
+>  
+> → *Listen on Spotify*  
+
+**Behind-the-Track Email**
+> Subject: *My therapist hates this one.*  
+>  
+> “Pretty sure that means it’s good.”  
+>  
+> → *Watch the MMV →*  
+
+**World-Building Email**
+> Subject: *Chef Dave vs the Air Fryer (Round 3)*  
+>  
+> “Lost again.”  
+>  
+> → *Watch the footage →*  
+
+---
+
+### 8.10 Growth & Maintenance
+- Keep gate links updated; retire old gates quarterly.  
+- Add every fan email from Hypeddit and events manually to master list.  
+- Send quarterly “re-warm” email to inactive subs.  
+- Use subject-line A/B tests (1 emotional / 1 weird).  
+- Collect top open-rate subjects in “Subject Vault” for reuse.  
+- Integrate analytics with Looker Studio dashboard via CSV export.
+
+---
