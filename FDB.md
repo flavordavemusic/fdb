@@ -105,3 +105,43 @@ You’re not creating to impress — you’re revealing what’s already true.
 The Flavorverse is weird, emotional, and addictive — but above all, it’s real. It gives people a mirror to discover their own flavor.
 
 ---
+---
+
+## 2 Audience
+A guide to who Flavor Dave is for, how they speak, and how we find each other. Includes general theme and tone primers relative to all other tabs — a philosophy-driven guide to who Flavor Dave is for, and how we build connection through language and emotional clarity.
+
+### 2.1 Guiding Principles
+- We’re not here to speak to everyone — we’re speaking to the ones who still feel everything but have no idea where they belong anymore.  
+- Specificity creates resonance. The more honest, weird, or emotionally precise the line, the more someone out there finally feels seen.  
+- The goal isn’t virality — it’s recognition. The right people recognize themselves in the language, the tension, the contradictions.  
+- Hooks aren’t for attention — they’re invites into something deeper.  
+- If it doesn’t feel like you, don’t post it — even if it “performs.” Momentum built on the wrong signal leads to the wrong audience.
+
+---
+
+### 2.2 Who This Is For
+- People who still love house music but are more selective about where they experience it.  
+- People who grew up with the scene and had their world changed by it.  
+- People who crave connection through music — not clout, not chaos.  
+- People who feel too emotionally dialed-in for the current party meta.  
+- People who want to party but not after party.  
+- People trying to reconcile their adult lives with their emotional past selves — without losing either.  
+
+This isn’t about rejecting the culture. It’s about **reclaiming** what the culture used to mean — and building from there.
+
+---
+
+### 2.3 Integration Instructions: How Audience Signals & Flavor Dave Compass Influence the Rest of FDB
+
+#### Branding Brain
+🧭 Use Audience Signals to guide tone and language.  
+- Avoid overly performative or generic brand language.  
+- Focus on emotional resonance, subtle contradictions, and specificity.  
+- Filter everything through:  
+  _“Would this actually speak to someone navigating the emotional weirdness of still loving the music but feeling alienated from the scene?”_  
+
+✅ Reinforce emotional honesty > brand polish.
+
+#### Text Hook Styles + Hook Frameworks
+🧭 Use the Compass to clarify intention before formatting.  
+- Don’t force hooks for vi
