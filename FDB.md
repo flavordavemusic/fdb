@@ -994,3 +994,130 @@ The goal: build *trust and anticipation*, not push streams.
 - Integrate analytics with Looker Studio dashboard via CSV export.
 
 ---
+---
+
+## 9 Album Art
+Guidelines for single and EP artwork across streaming platforms. Covers creative direction, typography, color, and how visuals tie into the Flavorverse.
+
+### 9.1 Purpose
+Album art is not decoration — it’s a **visual memory anchor**.  
+Each cover should instantly trigger a mood, emotion, or taste memory tied to the track.  
+Think of it as a *visual hook* that communicates flavor before sound.
+
+---
+
+### 9.2 Core Aesthetic
+- **Mood:** cinematic, moody, surreal, sensory.  
+- **Lighting:** soft contrast, warm shadows, subtle neon accents (red/orange).  
+- **Tone:** mix of real-world emotion and surreal culinary symbolism.  
+- **Texture:** glossy metallics, condensation, smoke, chrome, flame, steam.  
+- **Camera energy:** still but alive — like a photograph seconds before something happens.  
+
+🧠 Visual tone should feel like a *movie still from the Flavorverse.*
+
+---
+
+### 9.3 Composition Rules
+- Center focal point — strong subject with minimal clutter.  
+- Avoid stock-looking filters or text overlays.  
+- Favor cinematic crops and portrait framing (1:1 base, adaptable to 9:16).  
+- Incorporate consistent **logo/branding motif** (small corner logo, chef mark, or subtle spice element).  
+- Space for title text if needed — but textless covers are encouraged.  
+- Use leading lines or light gradients to direct focus to subject/emotion.  
+
+---
+
+### 9.4 Typography
+**Font Style**  
+- Sans-serif modern fonts with weight contrast (e.g., Helvetica Neue Bold, Gotham, or custom condensed).  
+- Minimal tracking; balanced kerning.  
+- Avoid script fonts or overused EDM aesthetics.
+
+**Usage**  
+- Artist Name: *Flavor Dave* — always visible if text is included.  
+- Track Title: smaller, less prominent than artist name.  
+- Font color harmonizes with palette — typically white, beige, or orange accent.  
+- Align left or center; avoid edge placement.  
+
+---
+
+### 9.5 Color Palette
+| Mood | Palette | Use Case |
+|------|----------|----------|
+| **Heat / Passion** | Reds, oranges, blacks | Intense tracks (*Burn Me Down*) |
+| **Cool / Nostalgia** | Blues, silvers, soft pinks | Emotional house, reflective themes |
+| **Energy / Groove** | Warm yellows, purples | Funkier disco or festival tracks |
+| **Contrast / Conflict** | Black + bright accent (cyan, magenta, tangerine) | Edgy or experimental releases |
+
+🧠 Choose color by **emotion**, not genre.
+
+---
+
+### 9.6 Visual Motifs (Flavorverse Language)
+Recurring symbols create subconscious recognition and storytelling consistency:  
+- **Chef Figure:** silhouette or reflection — never direct portrait.  
+- **USBs:** glowing, submerged, or “served” as dishes.  
+- **Food Elements:** peppers, smoke, melted vinyl, steam.  
+- **Objects:** cracked plates, disco balls, knives, mixers, glowing cables.  
+- **Thermal Imaging:** emotion heatmaps, red/blue gradients, slow-burn texture.  
+
+Keep motifs subtle — recognition comes from repetition, not logo spam.
+
+---
+
+### 9.7 Technical Specs
+| Platform | Size | Safe Zone | Notes |
+|-----------|------|-----------|-------|
+| Spotify / Apple Music | 3000 × 3000 px | Center 2500 × 2500 px | JPG or PNG (RGB) |
+| YouTube Thumbnail | 1280 × 720 px | Top/bottom safe margins | Export separate 9:16 variants |
+| Instagram / Reels | 1080 × 1350 px (4:5) | Avoid corner text | Preview in feed before posting |
+| TikTok / Shorts | 1080 × 1920 px | Leave headroom | Use blurred album art as background |
+
+---
+
+### 9.8 Concept Development Process
+1. Define emotional theme from track (use Text Hook Bank).  
+2. Choose core palette + motif.  
+3. Build 3–5 moodboards.  
+4. Test with trusted fans or collabs.  
+5. Finalize branding overlay.  
+6. Export variations for streaming + socials.  
+7. Add final artwork + metadata to `/data/releases.json`.
+
+---
+
+### 9.9 Consistency Across Releases
+- Maintain recognizable through-line (lighting, palette, motif).  
+- Covers should *look* like they’re from the same world — even across genres.  
+- If experimental: ensure it still fits the Flavorverse tone (emotion + surrealism).  
+- Tag exports by song + date:  
+  - `BurnMeDown_v2_master.jpg`  
+  - `TakeItBack_base.png`  
+- Keep PSD/Canva templates for fast updates.  
+
+---
+
+### 9.10 Example Art Direction Notes
+**Burn Me Down** – thermal red aesthetic, emotional heat, flames-as-feelings.  
+**Take It Back** – hands pulling apart, VHS grain, motion freeze.  
+**World Turnin (Remix)** – retro warmth, disco chrome reflections.  
+**White Lotus (Edit)** – deep blues, gold, fog, cinematic restraint.  
+
+---
+
+### 9.11 Common Mistakes to Avoid
+- ❌ Using AI art without texture correction.  
+- ❌ Over-branding (too many logos).  
+- ❌ Generic festival-style fonts.  
+- ❌ Busy or flat composition.  
+- ❌ Color imbalance (oversaturation).  
+
+---
+
+### 9.12 Future Expansion
+- Develop Flavorverse “visual codex” (color & motif guide).  
+- Potential animated/NFT covers.  
+- Cross-collab art direction templates for other producers.  
+- Auto-sync album art to Reels / YouTube templates via automation.
+
+---
