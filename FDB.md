@@ -1368,3 +1368,136 @@ Each one reinforces the Flavorverse story: emotional house with humor and taste.
 - Connect chart creation to n8n workflow → auto-generate social caption and IG Story asset.
 
 ---
+---
+
+## 12 Live Setup
+Comprehensive hybrid DJ + live performance system. Combines Serato, Ableton, SPD-SX, and external synths routed through the PreSonus Quantum ES-4 interface.
+
+### 12.1 Core Performance Philosophy
+Flavor Dave live sets are **culinary theatre meets emotional storytelling** — technical precision disguised as chaos.  
+The goal is to **merge studio energy and club spontaneity** into one continuous performance flow.
+
+> “Cooking tracks live, serving emotion on beat.”
+
+Every instrument, controller, and routing choice exists to enable freedom on stage — *not complexity.*
+
+---
+
+### 12.2 Rig Overview
+| Component | Role | Notes |
+|------------|------|-------|
+| **Laptop (MacBook Pro)** | Performance brain | Runs both Serato Pro + Ableton Live |
+| **PreSonus Quantum ES-4** | Audio interface | Bus-powered via Thunderbolt; routes mic, synths, SPD-SX |
+| **CDJ-3000s (HID mode)** | Deck control | Direct USB-C HID link to Serato |
+| **DJM-A9 / V10** | Mixer | Central routing hub; separate channels for stems + Ableton |
+| **Ableton Push / Launch Control XL MK3** | Control surface | Live triggering, looping, FX sends |
+| **SPD-SX Pro** | Percussion & sample playback | Loops, risers, fills, call-and-response moments |
+| **Hardware Synth (Korg Prologue / Minilogue XD)** | Analog layer | Used for pads, arps, lead moments |
+| **MIDI Fighter Twister** | FX / stem volume control | Custom-mapped to Serato stems and Ableton sends |
+
+---
+
+### 12.3 Signal Routing Summary
+- **Serato decks → DJM-A9/V10 (Channels 1-2)**  
+- **Ableton Live → ES-4 outputs → Mixer Channels 3-4**  
+- **SPD-SX Pro → ES-4 Line Inputs → Ableton Return Bus (for FX + sidechain)**  
+- **Synth → ES-4 Line Inputs → Ableton External Instrument track**  
+- **Mic → ES-4 XLR In → Ableton (light processing chain)**  
+
+All routed through **Ableton + Serato Link sync**, ensuring tempo lock and loop integrity.
+
+---
+
+### 12.4 MIDI & Sync
+- **Ableton Link:** master clock shared with Serato.  
+- **Quantum ES-4:** near-zero latency for round-trip routing.  
+- **Launch Control XL MK3:** mapped to Serato stem volumes (Drums, Vocals, Melody, Bass).  
+- **±1 ms MIDI nudge macro in Ableton** for manual sync correction when Link drifts (configure via MIDI Mapping → Utility Track).  
+- **Push 2:** handles Ableton clip launching + FX macros.  
+- **SPD-SX Pro:** tempo-matched via MIDI Out → Ableton In.  
+
+🧠 Goal: seamless hybrid between DJ spontaneity and live flexibility — no laptop-staring.
+
+---
+
+### 12.5 Vocal Chain (Ableton)
+1. **Waves Tune Real-Time** – light pitch correction  
+2. **EQ Eight** – subtractive shaping  
+3. **CLA-2A** – compression and warmth  
+4. **Soundtoys Radiator** – harmonic grit  
+5. **MicroShift** – stereo width  
+6. **Soothe2** – resonance control  
+7. **Valhalla VintageVerb** – wet/side-chained reverb bus  
+
+Optional: De-esser → noise gate → delay (if using live vox).
+
+---
+
+### 12.6 SPD-SX Pro Setup
+- Assign pads per track section (kick, snare, FX, vocal chop).  
+- Alternate kits between songs to free memory.  
+- Use **round-robin sample cycling** for human feel.  
+- Trigger samples in sync with Serato stems via Ableton Link.  
+- Route SPD-SX audio into Ableton to sidechain FX returns.  
+
+---
+
+### 12.7 Performance Layout (Mixer Channels)
+| Channel | Source | Function |
+|----------|---------|----------|
+| 1 | Serato Deck A | Main playback / stems |
+| 2 | Serato Deck B | Main playback / stems |
+| 3 | Ableton (SPD-SX, loops, synths) | Live integration |
+| 4 | Mic / FX Return | Live vocals, crowd FX, delays |
+
+Optional 5-6: Future expansion (synth submix, visuals control).
+
+---
+
+### 12.8 Visual & Thematic Integration
+- Chef persona remains present — black chef coat, sunglasses, controlled intensity.  
+- Visual cues (steam, peppers, lighting color) sync with musical energy.  
+- Incorporate **culinary sound design** (chopping samples, flame bursts) as rhythm accents.  
+- Keep movement natural — less “button-pushing,” more “heat-crafting.”  
+
+---
+
+### 12.9 Pre-Show Checklist
+✅ All devices powered / linked (ES-4 bus-powered via Thunderbolt).  
+✅ Serato decks HID-connected directly.  
+✅ Ableton Link active.  
+✅ MIDI controllers recognized + mapped.  
+✅ SPD-SX kits loaded.  
+✅ Test ±1 ms nudge stability.  
+✅ Backup USBs + stems ready.  
+✅ Mixer channel gains matched.  
+
+---
+
+### 12.10 Troubleshooting / Redundancy
+- Keep Serato + Ableton on separate audio buses (avoid feedback).  
+- If Link drifts: manually re-sync via Ableton nudge macro.  
+- Always carry backup stems on USB.  
+- Save Ableton templates with identical routing per show.  
+- Redundant cables for SPD-SX and Thunderbolt recommended.  
+- Use DI boxes for long-distance balanced sends to FOH.  
+
+---
+
+### 12.11 Expansion Plans
+- Future inclusion of visuals rig via Resolume or TouchDesigner.  
+- MIDI triggers for visual “steam bursts” synced to drum hits.  
+- Integration with lighting via Ableton DMX plugin.  
+- Potential future addition: **Push 3 standalone** for redundancy.  
+
+---
+
+### 12.12 Flavor Dave Live Ethos
+> “If it looks effortless, it probably took 40 hours of setup.”
+
+This setup blurs the line between DJ and performance art.  
+Every sound, movement, and visual is intentional — engineered chaos that still grooves.  
+
+When done right, the audience should feel like they’re watching someone literally *cook music.*
+
+---
