@@ -712,3 +712,158 @@ CTA: *“Too hot for SoundCloud.”*
 - Integrate music drop calendars with ads via Meta Event Manager for launch sync.
 
 ---
+---
+
+## 7 Text Hooks
+Flavor Dave’s full hook creation system — the emotional, psychological, and creative engine behind every caption, thread, ad, and Reel. This section defines the frameworks, tone categories, and testing process for building hooks that move people emotionally and algorithmically.
+
+### 7.1 Hook Philosophy
+Text hooks are emotional shortcuts.  
+They’re not about attention — they’re about **recognition**.  
+The goal isn’t to make someone read — it’s to make them *feel seen* in two seconds.
+
+A great hook isn’t just catchy — it creates curiosity, emotion, or identity resonance before context exists.  
+In short: **you don’t explain; you provoke.**
+
+---
+
+### 7.2 Emotional Archetypes (Core Hook Categories)
+Every Flavor Dave hook starts from one of these core emotional drivers.  
+These are the “flavors” of your communication tone.
+
+| Archetype | Core Emotion | Function | Example |
+|------------|---------------|-----------|----------|
+| **Yearning** | longing, desire, nostalgia | Pulls from shared emotional memory | “I miss people I’ve never met.” |
+| **Catharsis** | release, relief, surrender | Allows emotional exhale or validation | “This one fixed nothing but helped anyway.” |
+| **Denial** | resistance, irony, humor | Masks truth with self-awareness | “Therapist said no more bangers.” |
+| **Ritual** | repetition, pattern, addiction | Gives structure to chaos | “Same loop, different heartbreak.” |
+| **Recognition** | honesty, shared experience | Connects through vulnerability | “Too emotional for the club.” |
+| **Delusion** | self-contradiction, tension | Highlights conflict within truth | “I’m healing but the bass still hurts.” |
+
+🧠 Each archetype should be felt instantly. Don’t explain it in the caption — make people process it subconsciously.
+
+---
+
+### 7.3 Hook Frameworks
+Frameworks act like **containers** for emotional energy.  
+You start with a raw thought or feeling and shape it into a readable, scroll-stopping format.
+
+#### 1. The POV Hook
+- **Structure:** POV: [emotion / contradiction]  
+- **Example:** “POV: you said you’re fine but your playlist disagrees.”  
+- Works well for Reels, skits, and MMVs.  
+- Feeds on empathy + voyeurism.
+
+#### 2. The “This One” Hook
+- **Structure:** This one’s for [emotion / situation].  
+- **Example:** “This one’s for people who party in therapy now.”  
+- Signals emotional inclusion — builds tribe language.  
+- Converts best for music ads and playlists.
+
+#### 3. The “If You…” Hook
+- **Structure:** If you [habit / contradiction], this one’s for you.  
+- **Example:** “If you meal prep your emotions, this one’s for you.”  
+- Invites instant self-identification.  
+- Best for storytelling Reels and Threads.
+
+#### 4. The “Too…” Hook
+- **Structure:** Too [adjective] for [context].  
+- **Example:** “Too emotional for the club.”  
+- Establishes identity tension in one line.  
+- Foundational hook for the Flavor Dave tone.
+
+#### 5. The “POV Reversal” Hook
+- **Structure:** [Scenario], but reversed.  
+- **Example:** “You burned me down just to feel warm.”  
+- Works best for MMVs and emotional transitions.  
+- Visual payoff hooks — emotionally cinematic.
+
+---
+
+### 7.4 Hook Writing Process
+**Step 1:** Identify the emotion you want to trigger (not describe).  
+**Step 2:** Write 10–20 fast drafts — no editing.  
+**Step 3:** Categorize by archetype and framework.  
+**Step 4:** Test phrasing rhythm and readability.  
+**Step 5:** Select top 3 for testing across Reels, Threads, and Ads.  
+
+✅ Hooks should be **shorter than 10 words**.  
+✅ Hooks must evoke emotion without context.  
+✅ Never say what the viewer should feel — make them feel it.  
+✅ Best hooks live in contradiction.
+
+---
+
+### 7.5 Testing Hooks (Cross-Platform)
+**Instagram**
+- Overlay text in first 1.5s of Reels.  
+- Observe watch-time, saves, and replays.  
+- High save ratio = emotional resonance.  
+
+**Threads**
+- Test hooks as standalone posts.  
+- Comments reveal emotional alignment (“too real,” “felt that”).  
+
+**Ads**
+- Run 3 versions with identical video; only hook text changes.  
+- Track CTR and cost-per-save for emotional validation.  
+
+**YouTube**
+- Use hooks in titles or first lines of descriptions.  
+- Tracks with strong search intent (“House music for heartbreak”) perform best.
+
+---
+
+### 7.6 Formatting Guidelines
+- Use **sentence case**, not title case.  
+- Keep punctuation light — avoid exclamation points unless ironic.  
+- Italics or bold = emotional emphasis, not decoration.  
+- Avoid hashtags.  
+- If emotion or tone is ambiguous, test subtle emoji (🔥 😭 💔) — sparingly.
+
+---
+
+### 7.7 The Hook Bank (Examples)
+
+**Identity Hooks**
+- “Too soft for tech house, too spicy for therapy.”  
+- “This track smells like denial and espresso.”  
+- “House music for people who cry while meal prepping.”  
+
+**Emotional Hooks**
+- “She said it wasn’t that deep — now it’s a drop.”  
+- “You can’t heal to this but you’ll try.”  
+- “Some songs hit harder when you’re pretending to be fine.”  
+
+**Humor Hooks**
+- “My DJ name should’ve been ‘Emotional Damage Control.’”  
+- “Therapist said stop seeking validation. So I made this track.”  
+- “Cooking beats because feelings were too expensive.”  
+
+**Meta Hooks**
+- “Algorithm-proof music for algorithm-proof people.”  
+- “Not trending. Still hurts.”  
+- “This one broke ChatGPT’s heart.”  
+
+---
+
+### 7.8 Hook Scorecard (Optional)
+| Factor | Description | Weight |
+|--------|--------------|--------|
+| **Emotional Clarity** | Is the feeling instantly clear? | 40 % |
+| **Resonance** | Does it mirror the audience’s life tension? | 30 % |
+| **Novelty** | Is it surprising or reworded from cliché? | 20 % |
+| **Brevity** | Under 10 words? | 10 % |
+
+Use scorecard monthly to evaluate new hooks in the bank.  
+
+---
+
+### 7.9 Flavor Dave Hook Principles
+1. A good hook isn’t about virality — it’s about connection.  
+2. Confusion is fine. Indifference isn’t.  
+3. Humor is seasoning, not the dish.  
+4. Don’t say *“this will make you feel something.”* Make them feel it.  
+5. The Flavorverse rewards contradiction — lean into it.  
+
+---
