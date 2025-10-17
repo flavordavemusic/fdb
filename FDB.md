@@ -554,4 +554,161 @@ This format blends emotional vulnerability with teachable insight — it hits bo
 ✅ Screenshot-ready quote lines for IG reposts?
 
 ---
+---
 
+## 6 Ads / Advertising
+Meta / Instagram / Facebook Ads system. Unified strategy for Flavor Dave campaigns, integrating content, audience, creative testing, and psychological framing.
+
+### 6.1 Advertising Philosophy
+Flavor Dave ads are not about pushing songs; they’re about **triggering emotion** and **inviting curiosity**.  
+Listeners don’t click because they’re told to — they click because they *feel seen*.
+
+#### Core Beliefs
+- Ads should look and feel like organic content.  
+- Authentic tone > corporate polish.  
+- Each ad serves a psychological purpose: curiosity, recognition, or validation.  
+- The goal is *fan quality*, not vanity metrics.  
+- Algorithms reward strong engagement signals (watch-time, saves, shares).  
+- Music ads are emotional storytelling disguised as discovery.
+
+---
+
+### 6.2 Ad Funnel Overview
+
+| Funnel Stage | Goal | Content Type | Platform Placement |
+|---------------|------|---------------|--------------------|
+| **TOF – Top of Funnel** | Discovery & emotional resonance | Organic-feeling Reels, narrative ads, raw clips | IG Reels, Feed, FB Feed |
+| **MOF – Middle of Funnel** | Connection & validation | Lyric overlays, MMVs, POVs, fan reaction skits | IG Reels, Stories, FB Video |
+| **BOF – Bottom of Funnel** | Conversion / Listen | Track previews, playlist invites, “save for later” ads | IG Feed, Stories, YouTube Music |
+
+🧠 Think of the funnel as **emotion → context → action**, not awareness → conversion.
+
+---
+
+### 6.3 Creative Format Weighting
+Performance order (strongest → weakest):
+1. **Organic-feeling video** – lo-fi, phone-style, talking to camera, raw studio/BTS.  
+2. **Lyric overlay ads** – text on video timed to vocal hook.  
+3. **Narrative / skit ads** – story arc + punchline tied to song.  
+4. **Static image ads** – fallback only (used for retargeting).
+
+Each creative should imply **a feeling**, not command an action.  
+Example: instead of *“Listen now,”* use *“You weren’t supposed to hear this.”*
+
+---
+
+### 6.4 Creative Language / CTA Style
+
+| Emotional State | CTA Example | Goal |
+|-----------------|-------------|------|
+| Vulnerability | “Save this one for when you’re not okay.” | empathy, connection |
+| Desire | “This one’s dangerous at 2 AM.” | intrigue |
+| Nostalgia | “If you remember the first time you heard real house music…” | memory trigger |
+| Humor / Relatability | “Therapist said no more bangers.” | disarm & humanize |
+
+Never use *“Out Now,” “Stream Now,”* or *“Available Everywhere.”*  
+Your copy should **evoke a state**, not sell a link.
+
+---
+
+### 6.5 Targeting Framework
+
+#### 6.5.1 Base Audiences
+- Countries: US, Canada, UK, Germany, Netherlands, Australia.  
+- Age: 24 – 44.  
+- Interests: House music, Disco, Disclosure, Purple Disco Machine, Fred Again, Dom Dolla, SG Lewis, Lane 8, Channel Tres.  
+- Behaviors: Spotify listening, Music producers, Festival goers.  
+- Exclude: Big-room EDM / trap / dubstep clusters.
+
+#### 6.5.2 Lookalikes + Custom Audiences
+- **Custom Audiences:** site traffic, IG engagement, email list (Hypeddit).  
+- **Lookalikes:** 1 % based on engagement or video views > 75 %.  
+- Stack LALs by engagement type, not demographics.  
+- Refresh every 4–6 weeks.
+
+#### 6.5.3 Retargeting Logic
+- Engaged but not converted → Serve MMV or narrative ad.  
+- Clicked / listened but no follow → Show “voice note from the Chef” variant.  
+- Existing fans → Drop new track ads only with emotional setup.
+
+---
+
+### 6.6 Budgeting & Scaling
+- Start daily budget $5–10 USD per ad set.  
+- Run multiple ad sets (3–6) testing different hooks.  
+- Scale winning ads after $1 CPM & >1 % CTR.  
+- Avoid overlapping audiences → can throttle reach.  
+- Use separate campaigns for retargeting.  
+- Use **fan page mirror accounts** for cold ads to avoid reach penalty on main page.  
+
+🧂 Organic page = artistry.  
+👻 Fan page = distribution channel.
+
+---
+
+### 6.7 Creative Testing System
+**Goal:** find what triggers real emotion and clicks.  
+- Test 3 creatives per ad set.  
+- Use same caption and budget for fair comparison.  
+- Keep winner running 7–14 days before iterating.  
+- Save top performers to “Ad Vault” for future launches.  
+- Track via Meta Dashboard + Looker Studio (see FDB Tracking System).  
+- Test multiple CTA lines (e.g., “save this track” vs. “you weren’t supposed to hear this”).
+
+---
+
+### 6.8 Ad Examples (Flavor Dave Tone)
+- “This one’s for people who party in therapy now.”  
+- “House music for people who meal prep their feelings.”  
+- “You shouldn’t be dancing to this but you are.”  
+- “POV: you’re over your ex but the bass isn’t.”  
+- “Chef Dave burned this one on purpose.”
+
+---
+
+### 6.9 Performance Benchmarks
+| Metric | Target | Meaning |
+|---------|---------|----------|
+| **CTR (Link Click)** | > 1 % | Strong curiosity signal |
+| **CPM** | $1–3 | Healthy reach cost |
+| **CPC** | <$0.25 | Efficient traffic |
+| **Engagement Rate** | > 5 % | Emotional resonance |
+| **View Time** | > 50 % | Retention quality |
+
+---
+
+### 6.10 Flavor Dave Ad Templates
+
+**Ad 1 – Emotional Confession**  
+Visual: Chef staring at camera, soft light.  
+Caption: *“I made this track after someone said I should ‘be less dramatic.’ Now it’s her favorite.”*  
+CTA: *“Save this for your next meltdown.”*
+
+**Ad 2 – POV Narrative**  
+Visual: Thermal video of two people passing USB.  
+Caption: *“POV: you’re trying to act fine but the beat knows you’re lying.”*  
+CTA: *“Watch till the drop.”*
+
+**Ad 3 – Humor Angle**  
+Visual: Chef stirring CDJs with wooden spoon.  
+Caption: *“They said mix better. I said okay.”*  
+CTA: *“Too hot for SoundCloud.”*
+
+---
+
+### 6.11 Common Mistakes to Avoid
+- ❌ Boosting posts instead of running Ads Manager campaigns.  
+- ❌ Over-targeting (too small audiences = high CPM).  
+- ❌ Combining creative and budget testing in same ad set.  
+- ❌ Using generic “listen now” language.  
+- ❌ Ignoring fan quality signals (playlist adds, comments, saves).
+
+---
+
+### 6.12 Future Integration / Automation
+- Mirror `/data/fdb.json` to update n8n automations for ad management.  
+- Enable daily ad performance logging via Looker Studio or Meta API.  
+- Trigger creative refresh notifications based on CTR drops.  
+- Integrate music drop calendars with ads via Meta Event Manager for launch sync.
+
+---
