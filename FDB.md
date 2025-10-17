@@ -1251,3 +1251,120 @@ SoundCloud should feel alive: updates, reposts, and comments keep the profile al
 - Potential Discord integration for early fan access links.  
 
 ---
+---
+
+## 11 Beatport DJ Charts
+Beatport chart creation and growth system for visibility, credibility, and playlist traction.  
+Used to reinforce Flavor Dave’s brand story inside the DJ ecosystem and to network through shared taste.
+
+### 11.1 Purpose
+Beatport charts function as **social proof + taste declaration**.  
+They position Flavor Dave as a tastemaker within a specific niche of the house scene, building connections with fans, labels, and other DJs.
+
+A chart is not a flex — it’s a curated emotional statement: *“this is what’s inspiring the current Flavor.”*
+
+---
+
+### 11.2 Strategic Goals
+- Increase visibility on Beatport DJ Charts page.  
+- Strengthen relationships with labels + artists featured.  
+- Create search backlinks (“Flavor Dave Chart”) that also rank on Google.  
+- Feed algorithmic recommendations for similar artists.  
+- Generate shareable social content around each chart drop.  
+
+---
+
+### 11.3 Frequency
+- **1 Chart per month** minimum (aligned with release cycles).  
+- Alternate between:
+  - *Flavor Picks* – current house/disco/funk selections.  
+  - *Emotional Damage Control* – deeper or more cinematic tracks.  
+  - *Chef’s Choice* – playful / brand-integrated seasonal chart (e.g., “Summer Heat Menu”).  
+
+---
+
+### 11.4 Chart Construction
+| Step | Action | Details |
+|------|---------|----------|
+| **1. Theme** | Define mood or story (heat, nostalgia, therapy) | Hook title to Flavorverse emotion |
+| **2. Track Selection** | 10 tracks max | Include 1–2 Flavor Dave originals or edits |
+| **3. Flow** | Arrange like a DJ set | Gradual energy build, emotional arc |
+| **4. Description** | 2–3 sentences, world-building tone | Mention emotional theme, no sales pitch |
+| **5. Cover Art** | Reuse brand motif (Chef Dave silhouette, spicy palette) | 1400 × 1400 px |
+
+---
+
+### 11.5 Naming Conventions
+| Series | Example Title | Tone |
+|---------|----------------|------|
+| **Flavor Picks** | “Flavor Picks #06 – Funky Heatwave Edition” | Pure curation |
+| **Chef’s Choice** | “Chef’s Choice Vol. 2 – After Dinner Grooves” | Humorous / branded |
+| **Emotional Damage Control** | “EDC #4 – Healing on the Dance Floor” | Emotional storytelling |
+
+🧠 Keep names consistent across platforms so fans recognize the motif when shared to IG Stories or Threads.
+
+---
+
+### 11.6 Description Format
+> *Serving up a 10-track set of house and disco that hits somewhere between therapy and the afterparty.  
+> This one’s for people who dance through the existential dread — taste responsibly.*  
+
+Use the same tone across captions, posts, and visuals. Avoid lists or technical genre labels.
+
+---
+
+### 11.7 Promotion Flow
+1. Create the chart on Beatport.  
+2. Screenshot or export cover + tracklist.  
+3. Post to IG Stories / Threads / Twitter-style caption with hook (e.g., *“10 spicy tracks for your recovery era”*).  
+4. Tag artists + labels.  
+5. Submit link to label promo channels or Beatport community forums.  
+6. Archive chart URL in `/data/beatport_charts.json`.
+
+---
+
+### 11.8 Integration With Releases
+- Build each chart around a recent or upcoming release.  
+- Include your own track at position #3–#6 (not #1).  
+- Add collaborator or label-mates’ tracks next to yours for ecosystem visibility.  
+- Share chart link in emails or artist bios during release week.  
+- Cross-promote charts via Spotify playlists or YouTube Community posts.
+
+---
+
+### 11.9 Analytics + Tracking
+| Metric | Tool | Purpose |
+|---------|------|----------|
+| Chart views | Beatport Dashboard | Gauge exposure |
+| Clicks → profile | Link UTM | See funnel effectiveness |
+| Shared labels | Manual log → Sheets or Looker Studio | Identify repeat collaborators |
+| Social reach | IG / Threads Insights | Measure repost traction |
+
+Track monthly. Use top-performing chart themes to guide future playlist tone.
+
+---
+
+### 11.10 Flavor Dave Examples
+- **Chef’s Choice Vol. 1 – Too Hot for Therapy**  
+- **Flavor Picks #03 – Burn Me Down Edition**  
+- **Emotional Damage Control #2 – Songs That Didn’t Help at All**  
+- **Chef’s Choice Vol. 4 – After Hours with Extra Heat**  
+
+Each one reinforces the Flavorverse story: emotional house with humor and taste.
+
+---
+
+### 11.11 Common Mistakes to Avoid
+- ❌ Filling charts with only your own music.  
+- ❌ Generic “Top 10 of the Month” titles.  
+- ❌ Over-tagging labels or artists in posts.  
+- ❌ Ignoring visual presentation (thumbnail quality matters).  
+
+---
+
+### 11.12 Future Automation
+- Auto-log each new chart to `/data/beatport_charts.json`.  
+- Integrate Beatport RSS feed parser for display on website.  
+- Connect chart creation to n8n workflow → auto-generate social caption and IG Story asset.
+
+---
